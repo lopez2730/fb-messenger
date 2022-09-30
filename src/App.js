@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <MessengerCustomerChat
-        pageId="1031956140334728"
-        appId="617549996573242"
+        pageId="746430042198863"
+        appId="330998347352516"
       />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          msn de ecubi
         </a>
       </header>
     </div>
