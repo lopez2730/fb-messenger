@@ -8,7 +8,7 @@ function App() {
       <MessengerCustomerChat
         pageId="746430042198863"
         appId="330998347352516"
-        props={{ language: 'es_MX' }}
+        props={{ language: 'es' }}
       />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
